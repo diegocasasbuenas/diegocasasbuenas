@@ -79,7 +79,7 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
   </div>
   <!-- Power BI -->
   <div class="tech-card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="Power BI">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI">
     <p>Power BI</p>
   </div>
   <!-- Docker -->
