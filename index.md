@@ -41,3 +41,6 @@ Aquí puedes explorar mis proyectos más recientes.
 - **Redes Neuronales**: Implementación de una red neuronal para clasificación de imágenes.
 
 Si estás interesado en trabajar conmigo, no dudes en contactarme.
+
+![ciudad de ia](/images/cityevo.jpg)
+
