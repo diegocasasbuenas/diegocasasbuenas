@@ -46,3 +46,9 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
 
 ![amazonpet](/images/amazonpet.jpg)
 
+<i class="si si-python" style="font-size: 40px; color: #3776AB;"></i> ![Python](#)  
+<i class="si si-ruby" style="font-size: 40px; color: #D9142D;"></i> ![Ruby](#)  
+<i class="si si-javascript" style="font-size: 40px; color: #F7DF1E;"></i> ![JavaScript](#)  
+<i class="si si-java" style="font-size: 40px; color: #007396;"></i> ![Java](#)  
+
+
