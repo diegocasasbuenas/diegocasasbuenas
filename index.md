@@ -67,11 +67,6 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
     <p>PyTorch</p>
   </div>
-  <!-- spaCy -->
-  <div class="tech-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="spaCy">
-    <p>spaCy</p>
-  </div>
   <!-- SQL -->
   <div class="tech-card">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">
@@ -86,5 +81,10 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
   <div class="tech-card">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
     <p>Docker</p>
+  </div>
+  <!-- AWS -->
+  <div class="tech-card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Amazon_Web_Services_Logo.svg" alt="AWS">
+    <p>AWS</p>
   </div>
 </div>
