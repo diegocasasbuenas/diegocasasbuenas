@@ -44,3 +44,5 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
 
 ![ciudad de ia](/images/cityevo.jpg)
 
+![amazonpet](/images/amazonpet.jpg)
+
