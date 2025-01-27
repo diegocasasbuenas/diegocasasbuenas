@@ -1,6 +1,6 @@
 title: Diego Casasbuenas
 description: Data science and machine learning.
 url: "https://DZIENCE.github.io" # Cambia "username" por tu nombre de usuario de GitHub
-baseurl: "" # Deja vacío si es un sitio personal; si es un proyecto, usa "/nombre-del-repositorio"
+baseurl: "/diegocasasbuenas" # Deja vacío si es un sitio personal; si es un proyecto, usa "/nombre-del-repositorio"
 theme: jekyll-theme-minimal
 logo: "images/diegolink.jpg"
