@@ -49,16 +49,40 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
 
 # Mis Herramientas y Lenguajes
 
-# Tecnologías que Uso
+# Proficient
+
 <div class="tech-container">
+  <!-- Python -->
   <div class="tech-card">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
     <p>Python</p>
   </div>
+  <!-- TensorFlow -->
   <div class="tech-card">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
     <p>TensorFlow</p>
   </div>
+  <!-- PyTorch -->
+  <div class="tech-card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
+    <p>PyTorch</p>
+  </div>
+  <!-- spaCy -->
+  <div class="tech-card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="spaCy">
+    <p>spaCy</p>
+  </div>
+  <!-- SQL -->
+  <div class="tech-card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">
+    <p>SQL</p>
+  </div>
+  <!-- Power BI -->
+  <div class="tech-card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="Power BI">
+    <p>Power BI</p>
+  </div>
+  <!-- Docker -->
   <div class="tech-card">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
     <p>Docker</p>
