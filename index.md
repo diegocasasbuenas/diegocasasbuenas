@@ -84,7 +84,7 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
   </div>
   <!-- AWS -->
   <div class="tech-card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Amazon_Web_Services_Logo.svg" alt="AWS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS">
     <p>AWS</p>
   </div>
 </div>
