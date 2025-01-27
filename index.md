@@ -49,25 +49,19 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
 
 # Mis Herramientas y Lenguajes
 
-stos son los lenguajes y herramientas que utilizo:
+# Tecnologías que Uso
 
-<div class="icon-container">
-  <i class="si si-python"></i> Python
-</div>
+## Proyecto 1: Machine Learning
 
-<div class="icon-container">
-  <i class="si si-javascript"></i> JavaScript
-</div>
+- **Lenguajes y Herramientas**:
+  <div class="tech-box">Python</div>
+  <div class="tech-box">TensorFlow</div>
+  <div class="tech-box">scikit-learn</div>
 
-<div class="icon-container">
-  <i class="si si-ruby"></i> Ruby
-</div>
+## Proyecto 2: Desarrollo Web
 
-<div class="icon-container">
-  <i class="si si-java"></i> Java
-</div>
-
-<div class="icon-container">
-  <i class="si si-n
-
-
+- **Lenguajes y Herramientas**:
+  <div class="tech-box">JavaScript</div>
+  <div class="tech-box">HTML5</div>
+  <div class="tech-box">CSS3</div>
+  <div class="tech-box">React</div>
