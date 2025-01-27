@@ -50,18 +50,17 @@ Si estás interesado en trabajar conmigo, no dudes en contactarme.
 # Mis Herramientas y Lenguajes
 
 # Tecnologías que Uso
-
-## Proyecto 1: Machine Learning
-
-- **Lenguajes y Herramientas**:
-  <div class="tech-box">Python</div>
-  <div class="tech-box">TensorFlow</div>
-  <div class="tech-box">scikit-learn</div>
-
-## Proyecto 2: Desarrollo Web
-
-- **Lenguajes y Herramientas**:
-  <div class="tech-box">JavaScript</div>
-  <div class="tech-box">HTML5</div>
-  <div class="tech-box">CSS3</div>
-  <div class="tech-box">React</div>
+<div class="tech-container">
+  <div class="tech-card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+    <p>Python</p>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+    <p>TensorFlow</p>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
+    <p>Docker</p>
+  </div>
+</div>
