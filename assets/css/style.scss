@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-minimal"; 
 
+h2 {
+  margin-bottom: 30px; /* Ajusta el valor según el espacio que necesites */
+}
+
 /* Agregar el contenedor de tarjetas de tecnología */
 .tech-container {
   display: flex;
