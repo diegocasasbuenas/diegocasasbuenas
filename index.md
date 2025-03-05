@@ -3,7 +3,7 @@ layout: default
 title: Welcome to my web site
 ---
 
-# Hi, I'm Diego!  
+# Exploring the World of Data Science and AI!  
 
 Welcome to my portfolio! I am a Data Scientist with a strong background in machine learning, predictive modeling, and data-driven decision-making. My expertise lies in leveraging Python, SQL, NLP, and cloud computing to extract meaningful insights from complex datasets.
 
