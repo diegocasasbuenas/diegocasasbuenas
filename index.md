@@ -5,7 +5,7 @@ title: Welcome to my web site
 
 # Exploring the World of Data Science and AI!  
 
-Welcome to my portfolio! I am a Data Scientist with a strong background in machine learning, predictive modeling, and data-driven decision-making. My expertise lies in leveraging Python, SQL, NLP, and cloud computing to extract meaningful insights from complex datasets.
+Welcome to my portfolio! I am a Data Scientist with a strong background in machine learning, predictive modeling, and data-driven decision-making. My expertise lies in leveraging Python, SQL  and cloud computing to extract meaningful insights from complex datasets.
 
 Here, you’ll find a showcase of projects where I apply cutting-edge AI techniques to solve real-world problems. From sentiment analysis of Amazon reviews to predictive analytics and deep learning, each project reflects my commitment to innovation, efficiency, and impactful results.
 
@@ -66,7 +66,7 @@ In this project, I developed a machine learning model to analyze sentiment in Am
 To optimize performance, I leveraged RAPIDS cuDF for fast data processing and UMAP for dimensionality reduction. The best-performing model was deployed using FastAPI and Streamlit, allowing real-time testing with actual Amazon reviews.
 
 #### Key Highlights:
-- Balanced dataset: From 100K to 300K well-processed reviews
+- Balanced dataset: From 16M to 300K well-processed reviews
 - Cutting-edge NLP: Transfer learning with RoBERTa
 - Scalability & Speed: Optimized with RAPIDS cuDF
 - Deployment: Interactive testing via FastAPI & Streamlit
