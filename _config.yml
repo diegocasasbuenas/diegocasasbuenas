@@ -1,5 +1,13 @@
 title: Diego Casasbuenas
-description: Data Scientist
+description: >
+  Data Scientist | AI Engineer 
+  
+  - Expertise in predictive modeling and data analysis  
+  - Experience with Python, SQL, and cloud platforms (Azure, AWS)  
+  - Passionate about AI and data-driven decision-making 
+  
+  Contact: diego.cdeaza23@gmail.com
+  Bogotá 📍
 url: "https://diegocasasbuenas.github.io" # Cambia "username" por tu nombre de usuario de GitHub
 baseurl: "/diegocasasbuenas" # Deja vacío si es un sitio personal; si es un proyecto, usa "/nombre-del-repositorio"
 theme: jekyll-theme-minimal
