@@ -75,4 +75,9 @@ If you're interested in working with me, don't hesitate to reach out!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
     <p>AWS</p>
   </div>
+  <!-- Azure -->
+  <div class="tech-card">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftazure/microsoftazure-original.svg" alt="Azure">
+  <p>Microsoft Azure</p>
+  </div>
 </div>
