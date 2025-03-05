@@ -2,7 +2,7 @@ title: Diego Casasbuenas
 description: >
   Data Scientist | AI Engineer 
 
-contact: diego.cdeaza23@gmail.com
+email: diego.cdeaza23@gmail.com
 city: Bogotá, Colombia
 baseurl: "/diegocasasbuenas" # Deja vacío si es un sitio personal; si es un proyecto, usa "/nombre-del-repositorio"
 theme: jekyll-theme-minimal
