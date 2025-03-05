@@ -26,10 +26,8 @@
         <!-- Modificación del description para incluir correo y ciudad -->
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
-          <li>Contacto: {{ site.email }}</li>
-          <li>Ciudad: {{ site.city }}</li>
-        </ul>
+        <p>Contact: <span>{{ site.email }}</span></p>
+        <p>City: <span>{{ site.city }}</span></p>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
