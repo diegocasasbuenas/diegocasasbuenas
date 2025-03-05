@@ -11,9 +11,6 @@ Here, you’ll find a showcase of projects where I apply cutting-edge AI techniq
 
 I am passionate about turning data into actionable strategies, optimizing business outcomes, and continuously exploring new technologies
 
-## About Me  
-
-I am a **Data Scientist** with experience in data analysis, machine learning, and predictive modeling. My main focus is on data-driven decision-making and analytics.  
 
 ## Projects  
 
