@@ -11,33 +11,6 @@ Here, you’ll find a showcase of projects where I apply cutting-edge AI techniq
 
 I am passionate about turning data into actionable strategies, optimizing business outcomes, and continuously exploring new technologies
 
-
-## Projects  
-
-### Sentiment Analysis of Amazon Pet Product Reviews
-In this project, I developed a machine learning model to analyze sentiment in Amazon reviews of dog products. Using a large-scale dataset (16M reviews), I implemented advanced NLP techniques, including transfer learning with RoBERTa, to classify reviews as positive or negative.
-
-To optimize performance, I leveraged RAPIDS cuDF for fast data processing and UMAP for dimensionality reduction. The best-performing model was deployed using FastAPI and Streamlit, allowing real-time testing with actual Amazon reviews.
-
-#### Key Highlights:
-- Balanced dataset: From 100K to 300K well-processed reviews
-- Cutting-edge NLP: Transfer learning with RoBERTa
-- Scalability & Speed: Optimized with RAPIDS cuDF
-- Deployment: Interactive testing via FastAPI & Streamlit
-
-[Check out the full project on github](https://github.com/diegocasasbuenas/sentiment_analysis_ecommerce.git)
-
-![amazonpet](/images/amazonpet.jpg)
-
-## Contact Me  
-
-If you'd like to get in touch, feel free to email me at [diego.cdeaza23@gmail.com](mailto:diego.cdeaza23@gmail.com).  
-
-If you're interested in working with me, don't hesitate to reach out!  
-
-
-
-
 ## Tech Stack & Tools
 
 <div class="tech-container">
@@ -82,3 +55,32 @@ If you're interested in working with me, don't hesitate to reach out!
     <p>Microsoft Azure</p>
   </div>
 </div>
+
+
+
+## Projects  
+
+### Sentiment Analysis of Amazon Pet Product Reviews
+In this project, I developed a machine learning model to analyze sentiment in Amazon reviews of dog products. Using a large-scale dataset (16M reviews), I implemented advanced NLP techniques, including transfer learning with RoBERTa, to classify reviews as positive or negative.
+
+To optimize performance, I leveraged RAPIDS cuDF for fast data processing and UMAP for dimensionality reduction. The best-performing model was deployed using FastAPI and Streamlit, allowing real-time testing with actual Amazon reviews.
+
+#### Key Highlights:
+- Balanced dataset: From 100K to 300K well-processed reviews
+- Cutting-edge NLP: Transfer learning with RoBERTa
+- Scalability & Speed: Optimized with RAPIDS cuDF
+- Deployment: Interactive testing via FastAPI & Streamlit
+
+[Check out the full project on github](https://github.com/diegocasasbuenas/sentiment_analysis_ecommerce.git)
+
+![amazonpet](/images/amazonpet.jpg)
+
+## Contact Me  
+
+If you'd like to get in touch, feel free to email me at [diego.cdeaza23@gmail.com](mailto:diego.cdeaza23@gmail.com).  
+
+If you're interested in working with me, don't hesitate to reach out!  
+
+
+
+
