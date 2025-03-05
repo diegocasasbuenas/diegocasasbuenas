@@ -18,11 +18,11 @@ In this project, I developed a machine learning model to analyze sentiment in Am
 
 To optimize performance, I leveraged RAPIDS cuDF for fast data processing and UMAP for dimensionality reduction. The best-performing model was deployed using FastAPI and Streamlit, allowing real-time testing with actual Amazon reviews.
 
-🔹 Key Highlights:
-✔ Balanced dataset: From 100K to 300K well-processed reviews
-✔ Cutting-edge NLP: Transfer learning with RoBERTa
-✔ Scalability & Speed: Optimized with RAPIDS cuDF
-✔ Deployment: Interactive testing via FastAPI & Streamlit
+#### Key Highlights:
+- Balanced dataset: From 100K to 300K well-processed reviews
+- Cutting-edge NLP: Transfer learning with RoBERTa
+- Scalability & Speed: Optimized with RAPIDS cuDF
+- Deployment: Interactive testing via FastAPI & Streamlit
 
 [Check out the full project on github](https://github.com/diegocasasbuenas/sentiment_analysis_ecommerce.git)
 
@@ -77,7 +77,7 @@ If you're interested in working with me, don't hesitate to reach out!
   </div>
   <!-- Azure -->
   <div class="tech-card">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftazure/microsoftazure-original.svg" alt="Azure">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure">
   <p>Microsoft Azure</p>
   </div>
 </div>
