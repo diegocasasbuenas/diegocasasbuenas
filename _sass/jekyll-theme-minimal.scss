@@ -2,11 +2,14 @@
 @import "rouge-github";
 
 body {
-  background-color: #333333;
-  padding:50px;
+  background-image: url('images/redi.jpg'); /* Reemplaza con la ruta de tu imagen */
+  background-size: cover; /* Asegura que la imagen cubra toda la página */
+  background-position: center; /* Centra la imagen en la pantalla */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#FFFFFF;
-  font-weight:400;
+  color: #FFFFFF;
+  font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
