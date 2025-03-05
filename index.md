@@ -77,7 +77,7 @@ If you're interested in working with me, don't hesitate to reach out!
   </div>
   <!-- Azure -->
   <div class="tech-card">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure">
-  <p>Microsoft Azure</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure">
+    <p>Microsoft Azure</p>
   </div>
 </div>
