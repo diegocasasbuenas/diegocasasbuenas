@@ -5,7 +5,11 @@ title: Welcome to my web site
 
 # Hi, I'm Diego!  
 
-Welcome to my website. Here, I share my projects, research, and insights about my work as a Data Scientist.  
+Welcome to my portfolio! I am a Data Scientist with a strong background in machine learning, predictive modeling, and data-driven decision-making. My expertise lies in leveraging Python, SQL, NLP, and cloud computing to extract meaningful insights from complex datasets.
+
+Here, you’ll find a showcase of projects where I apply cutting-edge AI techniques to solve real-world problems. From sentiment analysis of Amazon reviews to predictive analytics and deep learning, each project reflects my commitment to innovation, efficiency, and impactful results.
+
+I am passionate about turning data into actionable strategies, optimizing business outcomes, and continuously exploring new technologies
 
 ## About Me  
 
