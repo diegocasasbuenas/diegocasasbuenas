@@ -1,55 +1,43 @@
 ---
 layout: default
-title: Bienvenido a mi sitio
+title: Welcome to my web site
 ---
 
-# ¡Hola, soy [Tu Nombre]!
+# Hi, I'm Diego!  
 
-Bienvenido a mi sitio web. Aquí comparto mis proyectos, investigación, y más sobre mi trabajo como Data Scientist.
+Welcome to my website. Here, I share my projects, research, and insights about my work as a Data Scientist.  
 
-## Sobre mí
+## About Me  
 
-Soy un **Data Scientist** con experiencia en análisis de datos, aprendizaje automático y creación de modelos predictivos. Mi enfoque principal es en el análisis de datos y la toma de decisiones basadas en ellos.
+I am a **Data Scientist** with experience in data analysis, machine learning, and predictive modeling. My main focus is on data-driven decision-making and analytics.  
 
-## Proyectos
+## Projects  
 
-- [Proyecto 1](#): Descripción breve del proyecto 1.
-- [Proyecto 2](#): Descripción breve del proyecto 2.
+### Sentiment Analysis of Amazon Pet Product Reviews
+In this project, I developed a machine learning model to analyze sentiment in Amazon reviews of dog products. Using a large-scale dataset (16M reviews), I implemented advanced NLP techniques, including transfer learning with RoBERTa, to classify reviews as positive or negative.
 
-## Contáctame
+To optimize performance, I leveraged RAPIDS cuDF for fast data processing and UMAP for dimensionality reduction. The best-performing model was deployed using FastAPI and Streamlit, allowing real-time testing with actual Amazon reviews.
 
-Si deseas contactarme, puedes enviarme un correo a [tuemail@example.com](mailto:tuemail@example.com).
-2. Página de portafolio de proyectos
-Si el sitio es un portafolio, puedes mostrar tus proyectos o logros recientes, con enlaces a los detalles de cada proyecto.
+🔹 Key Highlights:
+✔ Balanced dataset: From 100K to 300K well-processed reviews
+✔ Cutting-edge NLP: Transfer learning with RoBERTa
+✔ Scalability & Speed: Optimized with RAPIDS cuDF
+✔ Deployment: Interactive testing via FastAPI & Streamlit
 
-markdown
-Copiar
-Editar
----
-layout: default
-title: Mi portafolio
----
-
-# Bienvenido a mi portafolio
-
-Aquí puedes explorar mis proyectos más recientes.
-
-## Proyectos destacados
-
-- **Análisis de Sentimientos en Amazon**: Un análisis detallado de las reseñas de productos para perros en Amazon, utilizando técnicas de NLP.
-- **Modelo Predictivo de Regresión**: Predicción de valores utilizando regresión lineal en datos históricos.
-- **Redes Neuronales**: Implementación de una red neuronal para clasificación de imágenes.
-
-Si estás interesado en trabajar conmigo, no dudes en contactarme.
-
-![ciudad de ia](/images/cityevo.jpg)
+[Check out the full project on github](https://github.com/diegocasasbuenas/sentiment_analysis_ecommerce.git)
 
 ![amazonpet](/images/amazonpet.jpg)
 
+## Contact Me  
 
-# Mis Herramientas y Lenguajes
+If you'd like to get in touch, feel free to email me at [diego.cdeaza23@gmail.com](mailto:diego.cdeaza23@gmail.com).  
 
-# Proficient
+If you're interested in working with me, don't hesitate to reach out!  
+
+
+
+
+## Tools & Frameworks
 
 <div class="tech-container">
   <!-- Python -->
