@@ -37,7 +37,7 @@ If you're interested in working with me, don't hesitate to reach out!
 
 
 
-## Tools & Frameworks
+## Tech Stack & Tools
 
 <div class="tech-container">
   <!-- Python -->
